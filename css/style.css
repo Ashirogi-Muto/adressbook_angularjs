@@ -1,0 +1,57 @@
+body{
+
+	background-color: #CCFFFF;
+}
+
+.list{
+
+	
+	background-color:#CC99FF;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 25px;
+	width: 500px;
+	border-radius: 5px;
+	margin-top: 30px;
+	margin-left: 350px;
+	color:#000099;
+
+}
+
+.contact{
+
+	margin-left: 30px;
+}
+.add{
+	
+	
+	margin-left: 350px;
+
+
+}
+#button{
+
+	width: 120px;
+	height: 50px;
+	margin-top: 20px;
+	font-size: 15px;
+
+}
+
+.new{
+	margin-top: 20px;
+	margin-left: 330px;
+	background-color:#CC99FF;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	width: 500px;
+	height: 300px;
+	border-radius: 5px;
+	margin-top: 30px;
+	color:#000099;
+}
+.addnew{
+	margin-left: 50px;
+}
+input[type=text]{
+  border-radius:8px;
+}
